@@ -26,5 +26,7 @@ public class Main {
         
         dsp.addToPlayListFromAlbum("295", playlist);
         dsp.addToPlayListFromAlbum(2, playlist);
+
+        System.out.println("rathan");
     }
 }
